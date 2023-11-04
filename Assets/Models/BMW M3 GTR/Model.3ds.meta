@@ -1,0 +1,1286 @@
+fileFormatVersion: 2
+guid: 252b7f0ce19c5f543be2225e98b83443
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bonnet
+  - first:
+      1: 100002
+    second: bonnet_dam
+  - first:
+      1: 100004
+    second: bonnet_dum
+  - first:
+      1: 100006
+    second: bonnet_ok
+  - first:
+      1: 100008
+    second: Boot
+  - first:
+      1: 100010
+    second: Boot01
+  - first:
+      1: 100012
+    second: boot_dam
+  - first:
+      1: 100014
+    second: boot_dummy
+  - first:
+      1: 100016
+    second: boot_ok
+  - first:
+      1: 100018
+    second: breaklig01
+  - first:
+      1: 100020
+    second: breaklight
+  - first:
+      1: 100022
+    second: bump_front
+  - first:
+      1: 100024
+    second: bump_rear_
+  - first:
+      1: 100026
+    second: chassis
+  - first:
+      1: 100028
+    second: chassis_du
+  - first:
+      1: 100030
+    second: chassis_vl
+  - first:
+      1: 100032
+    second: Collision
+  - first:
+      1: 100034
+    second: Default
+  - first:
+      1: 100036
+    second: Default01
+  - first:
+      1: 100038
+    second: Default02
+  - first:
+      1: 100040
+    second: Default03
+  - first:
+      1: 100042
+    second: Default04
+  - first:
+      1: 100044
+    second: Default05
+  - first:
+      1: 100046
+    second: Default06
+  - first:
+      1: 100048
+    second: Default07
+  - first:
+      1: 100050
+    second: Default08
+  - first:
+      1: 100052
+    second: Default09
+  - first:
+      1: 100054
+    second: Default10
+  - first:
+      1: 100056
+    second: door_lf_da
+  - first:
+      1: 100058
+    second: door_lf_du
+  - first:
+      1: 100060
+    second: door_lf_ok
+  - first:
+      1: 100062
+    second: door_rf_da
+  - first:
+      1: 100064
+    second: door_rf_du
+  - first:
+      1: 100066
+    second: door_rf_ok
+  - first:
+      1: 100068
+    second: engine
+  - first:
+      1: 100070
+    second: Euros
+  - first:
+      1: 100072
+    second: exhaust
+  - first:
+      1: 100074
+    second: FBumper
+  - first:
+      1: 100076
+    second: FBumper01
+  - first:
+      1: 100078
+    second: foglight_l
+  - first:
+      1: 100080
+    second: foglight_r
+  - first:
+      1: 100082
+    second: front_bu01
+  - first:
+      1: 100084
+    second: front_bump
+  - first:
+      1: 100086
+    second: headlights
+  - first:
+      1: 100088
+    second: hub_lf
+  - first:
+      1: 100090
+    second: hub_lr
+  - first:
+      1: 100092
+    second: hub_rf
+  - first:
+      1: 100094
+    second: hub_rr
+  - first:
+      1: 100096
+    second: indicato01
+  - first:
+      1: 100098
+    second: indicato02
+  - first:
+      1: 100100
+    second: indicato03
+  - first:
+      1: 100102
+    second: indicato04
+  - first:
+      1: 100104
+    second: indicato05
+  - first:
+      1: 100106
+    second: indicator_
+  - first:
+      1: 100108
+    second: LFDoor
+  - first:
+      1: 100110
+    second: LFDoor01
+  - first:
+      1: 100112
+    second: //RootNode
+  - first:
+      1: 100114
+    second: panel
+  - first:
+      1: 100116
+    second: panel2
+  - first:
+      1: 100118
+    second: ped_arm
+  - first:
+      1: 100120
+    second: ped_fronts
+  - first:
+      1: 100122
+    second: petrolcap
+  - first:
+      1: 100124
+    second: plate_rear
+  - first:
+      1: 100126
+    second: podsventka
+  - first:
+      1: 100128
+    second: RBumper
+  - first:
+      1: 100130
+    second: RBumper01
+  - first:
+      1: 100132
+    second: rear_bum01
+  - first:
+      1: 100134
+    second: rear_bumpe
+  - first:
+      1: 100136
+    second: reversin01
+  - first:
+      1: 100138
+    second: reversingl
+  - first:
+      1: 100140
+    second: RFDoor
+  - first:
+      1: 100142
+    second: RFDoor01
+  - first:
+      1: 100144
+    second: rpetrolok
+  - first:
+      1: 100146
+    second: Seats
+  - first:
+      1: 100148
+    second: Shadow
+  - first:
+      1: 100150
+    second: speedo_dum
+  - first:
+      1: 100152
+    second: speedook
+  - first:
+      1: 100154
+    second: steering_d
+  - first:
+      1: 100156
+    second: steeringok
+  - first:
+      1: 100158
+    second: tahook
+  - first:
+      1: 100160
+    second: tailligh01
+  - first:
+      1: 100162
+    second: taillights
+  - first:
+      1: 100164
+    second: ug_nitro
+  - first:
+      1: 100166
+    second: wheel_lb_d
+  - first:
+      1: 100168
+    second: wheel_lf_d
+  - first:
+      1: 100170
+    second: wheel_rb_d
+  - first:
+      1: 100172
+    second: wheel_rf
+  - first:
+      1: 100174
+    second: wheel_rf_d
+  - first:
+      1: 100176
+    second: windescree
+  - first:
+      1: 100178
+    second: Windscre01
+  - first:
+      1: 100180
+    second: windscreen
+  - first:
+      4: 400000
+    second: Bonnet
+  - first:
+      4: 400002
+    second: bonnet_dam
+  - first:
+      4: 400004
+    second: bonnet_dum
+  - first:
+      4: 400006
+    second: bonnet_ok
+  - first:
+      4: 400008
+    second: Boot
+  - first:
+      4: 400010
+    second: Boot01
+  - first:
+      4: 400012
+    second: boot_dam
+  - first:
+      4: 400014
+    second: boot_dummy
+  - first:
+      4: 400016
+    second: boot_ok
+  - first:
+      4: 400018
+    second: breaklig01
+  - first:
+      4: 400020
+    second: breaklight
+  - first:
+      4: 400022
+    second: bump_front
+  - first:
+      4: 400024
+    second: bump_rear_
+  - first:
+      4: 400026
+    second: chassis
+  - first:
+      4: 400028
+    second: chassis_du
+  - first:
+      4: 400030
+    second: chassis_vl
+  - first:
+      4: 400032
+    second: Collision
+  - first:
+      4: 400034
+    second: Default
+  - first:
+      4: 400036
+    second: Default01
+  - first:
+      4: 400038
+    second: Default02
+  - first:
+      4: 400040
+    second: Default03
+  - first:
+      4: 400042
+    second: Default04
+  - first:
+      4: 400044
+    second: Default05
+  - first:
+      4: 400046
+    second: Default06
+  - first:
+      4: 400048
+    second: Default07
+  - first:
+      4: 400050
+    second: Default08
+  - first:
+      4: 400052
+    second: Default09
+  - first:
+      4: 400054
+    second: Default10
+  - first:
+      4: 400056
+    second: door_lf_da
+  - first:
+      4: 400058
+    second: door_lf_du
+  - first:
+      4: 400060
+    second: door_lf_ok
+  - first:
+      4: 400062
+    second: door_rf_da
+  - first:
+      4: 400064
+    second: door_rf_du
+  - first:
+      4: 400066
+    second: door_rf_ok
+  - first:
+      4: 400068
+    second: engine
+  - first:
+      4: 400070
+    second: Euros
+  - first:
+      4: 400072
+    second: exhaust
+  - first:
+      4: 400074
+    second: FBumper
+  - first:
+      4: 400076
+    second: FBumper01
+  - first:
+      4: 400078
+    second: foglight_l
+  - first:
+      4: 400080
+    second: foglight_r
+  - first:
+      4: 400082
+    second: front_bu01
+  - first:
+      4: 400084
+    second: front_bump
+  - first:
+      4: 400086
+    second: headlights
+  - first:
+      4: 400088
+    second: hub_lf
+  - first:
+      4: 400090
+    second: hub_lr
+  - first:
+      4: 400092
+    second: hub_rf
+  - first:
+      4: 400094
+    second: hub_rr
+  - first:
+      4: 400096
+    second: indicato01
+  - first:
+      4: 400098
+    second: indicato02
+  - first:
+      4: 400100
+    second: indicato03
+  - first:
+      4: 400102
+    second: indicato04
+  - first:
+      4: 400104
+    second: indicato05
+  - first:
+      4: 400106
+    second: indicator_
+  - first:
+      4: 400108
+    second: LFDoor
+  - first:
+      4: 400110
+    second: LFDoor01
+  - first:
+      4: 400112
+    second: //RootNode
+  - first:
+      4: 400114
+    second: panel
+  - first:
+      4: 400116
+    second: panel2
+  - first:
+      4: 400118
+    second: ped_arm
+  - first:
+      4: 400120
+    second: ped_fronts
+  - first:
+      4: 400122
+    second: petrolcap
+  - first:
+      4: 400124
+    second: plate_rear
+  - first:
+      4: 400126
+    second: podsventka
+  - first:
+      4: 400128
+    second: RBumper
+  - first:
+      4: 400130
+    second: RBumper01
+  - first:
+      4: 400132
+    second: rear_bum01
+  - first:
+      4: 400134
+    second: rear_bumpe
+  - first:
+      4: 400136
+    second: reversin01
+  - first:
+      4: 400138
+    second: reversingl
+  - first:
+      4: 400140
+    second: RFDoor
+  - first:
+      4: 400142
+    second: RFDoor01
+  - first:
+      4: 400144
+    second: rpetrolok
+  - first:
+      4: 400146
+    second: Seats
+  - first:
+      4: 400148
+    second: Shadow
+  - first:
+      4: 400150
+    second: speedo_dum
+  - first:
+      4: 400152
+    second: speedook
+  - first:
+      4: 400154
+    second: steering_d
+  - first:
+      4: 400156
+    second: steeringok
+  - first:
+      4: 400158
+    second: tahook
+  - first:
+      4: 400160
+    second: tailligh01
+  - first:
+      4: 400162
+    second: taillights
+  - first:
+      4: 400164
+    second: ug_nitro
+  - first:
+      4: 400166
+    second: wheel_lb_d
+  - first:
+      4: 400168
+    second: wheel_lf_d
+  - first:
+      4: 400170
+    second: wheel_rb_d
+  - first:
+      4: 400172
+    second: wheel_rf
+  - first:
+      4: 400174
+    second: wheel_rf_d
+  - first:
+      4: 400176
+    second: windescree
+  - first:
+      4: 400178
+    second: Windscre01
+  - first:
+      4: 400180
+    second: windscreen
+  - first:
+      21: 2100000
+    second: Matte_ FFCCCCCC
+  - first:
+      21: 2100002
+    second: 18 [spec]
+  - first:
+      21: 2100004
+    second: 2 [spec]
+  - first:
+      21: 2100006
+    second: 6 [spec]
+  - first:
+      21: 2100008
+    second: chassistex [spec
+  - first:
+      21: 2100010
+    second: remap_gtr [prim,
+  - first:
+      21: 2100012
+    second: Matte_ FFFFFFFF_
+  - first:
+      21: 2100014
+    second: Matte_ FF990000_
+  - first:
+      21: 2100016
+    second: 19 [spec]
+  - first:
+      21: 2100018
+    second: 20 [spec]
+  - first:
+      21: 2100020
+    second: srteetingwheels2
+  - first:
+      21: 2100022
+    second: lightsmw [spec]
+  - first:
+      21: 2100024
+    second: Matte_ FFCCCCCC_
+  - first:
+      21: 2100026
+    second: Matte_ FF666666_
+  - first:
+      21: 2100028
+    second: Matte_ FF999999_
+  - first:
+      21: 2100030
+    second: Matte_ FF131313_
+  - first:
+      21: 2100032
+    second: upgrade s2 [spec
+  - first:
+      21: 2100034
+    second: gld [spec]
+  - first:
+      21: 2100036
+    second: carpet2 [spec]
+  - first:
+      21: 2100038
+    second: carbontex [spec]
+  - first:
+      21: 2100040
+    second: Matte_ FF191919_
+  - first:
+      21: 2100042
+    second: enine2 [spec]
+  - first:
+      21: 2100044
+    second: Matte_ FF333333_
+  - first:
+      21: 2100046
+    second: vehiclelights [s
+  - first:
+      21: 2100048
+    second: vehiclelights 01
+  - first:
+      21: 2100050
+    second: vehiclelights 02
+  - first:
+      21: 2100052
+    second: vehiclelights 03
+  - first:
+      21: 2100054
+    second: vehiclelights 04
+  - first:
+      21: 2100056
+    second: lights_lod0 [spe
+  - first:
+      21: 2100058
+    second: Matte_ FF1D1D1D_
+  - first:
+      21: 2100060
+    second: intgauges2 [spec
+  - first:
+      21: 2100062
+    second: Matte_ FF1A1A1A
+  - first:
+      21: 2100064
+    second: Matte_ 66000000_
+  - first:
+      21: 2100066
+    second: scratch
+  - first:
+      21: 2100068
+    second: Matte_ FFCCCCC01
+  - first:
+      21: 2100070
+    second: chassistex [prim
+  - first:
+      21: 2100072
+    second: carpback
+  - first:
+      21: 2100074
+    second: carplate
+  - first:
+      21: 2100076
+    second: authors2 [spec]
+  - first:
+      21: 2100078
+    second: support
+  - first:
+      21: 2100080
+    second: tire_side
+  - first:
+      21: 2100082
+    second: disc01
+  - first:
+      21: 2100084
+    second: 22 [spec]
+  - first:
+      21: 2100086
+    second: Default Material
+  - first:
+      23: 2300000
+    second: bonnet_dam
+  - first:
+      23: 2300002
+    second: bonnet_ok
+  - first:
+      23: 2300004
+    second: boot_dam
+  - first:
+      23: 2300006
+    second: boot_ok
+  - first:
+      23: 2300008
+    second: chassis
+  - first:
+      23: 2300010
+    second: chassis_vl
+  - first:
+      23: 2300012
+    second: Collision
+  - first:
+      23: 2300014
+    second: door_lf_da
+  - first:
+      23: 2300016
+    second: door_lf_ok
+  - first:
+      23: 2300018
+    second: door_rf_da
+  - first:
+      23: 2300020
+    second: door_rf_ok
+  - first:
+      23: 2300022
+    second: front_bu01
+  - first:
+      23: 2300024
+    second: front_bump
+  - first:
+      23: 2300026
+    second: hub_lf
+  - first:
+      23: 2300028
+    second: hub_lr
+  - first:
+      23: 2300030
+    second: hub_rf
+  - first:
+      23: 2300032
+    second: hub_rr
+  - first:
+      23: 2300034
+    second: panel
+  - first:
+      23: 2300036
+    second: panel2
+  - first:
+      23: 2300038
+    second: plate_rear
+  - first:
+      23: 2300040
+    second: podsventka
+  - first:
+      23: 2300042
+    second: rear_bum01
+  - first:
+      23: 2300044
+    second: rear_bumpe
+  - first:
+      23: 2300046
+    second: rpetrolok
+  - first:
+      23: 2300048
+    second: Seats
+  - first:
+      23: 2300050
+    second: Shadow
+  - first:
+      23: 2300052
+    second: speedook
+  - first:
+      23: 2300054
+    second: steeringok
+  - first:
+      23: 2300056
+    second: tahook
+  - first:
+      23: 2300058
+    second: wheel_rf
+  - first:
+      23: 2300060
+    second: windescree
+  - first:
+      33: 3300000
+    second: bonnet_dam
+  - first:
+      33: 3300002
+    second: bonnet_ok
+  - first:
+      33: 3300004
+    second: boot_dam
+  - first:
+      33: 3300006
+    second: boot_ok
+  - first:
+      33: 3300008
+    second: chassis
+  - first:
+      33: 3300010
+    second: chassis_vl
+  - first:
+      33: 3300012
+    second: Collision
+  - first:
+      33: 3300014
+    second: door_lf_da
+  - first:
+      33: 3300016
+    second: door_lf_ok
+  - first:
+      33: 3300018
+    second: door_rf_da
+  - first:
+      33: 3300020
+    second: door_rf_ok
+  - first:
+      33: 3300022
+    second: front_bu01
+  - first:
+      33: 3300024
+    second: front_bump
+  - first:
+      33: 3300026
+    second: hub_lf
+  - first:
+      33: 3300028
+    second: hub_lr
+  - first:
+      33: 3300030
+    second: hub_rf
+  - first:
+      33: 3300032
+    second: hub_rr
+  - first:
+      33: 3300034
+    second: panel
+  - first:
+      33: 3300036
+    second: panel2
+  - first:
+      33: 3300038
+    second: plate_rear
+  - first:
+      33: 3300040
+    second: podsventka
+  - first:
+      33: 3300042
+    second: rear_bum01
+  - first:
+      33: 3300044
+    second: rear_bumpe
+  - first:
+      33: 3300046
+    second: rpetrolok
+  - first:
+      33: 3300048
+    second: Seats
+  - first:
+      33: 3300050
+    second: Shadow
+  - first:
+      33: 3300052
+    second: speedook
+  - first:
+      33: 3300054
+    second: steeringok
+  - first:
+      33: 3300056
+    second: tahook
+  - first:
+      33: 3300058
+    second: wheel_rf
+  - first:
+      33: 3300060
+    second: windescree
+  - first:
+      43: 4300000
+    second: chassis
+  - first:
+      43: 4300002
+    second: Seats
+  - first:
+      43: 4300004
+    second: podsventka
+  - first:
+      43: 4300006
+    second: panel
+  - first:
+      43: 4300008
+    second: panel2
+  - first:
+      43: 4300010
+    second: steeringok
+  - first:
+      43: 4300012
+    second: speedook
+  - first:
+      43: 4300014
+    second: tahook
+  - first:
+      43: 4300016
+    second: rpetrolok
+  - first:
+      43: 4300018
+    second: chassis_vl
+  - first:
+      43: 4300020
+    second: door_rf_ok
+  - first:
+      43: 4300022
+    second: door_rf_da
+  - first:
+      43: 4300024
+    second: bonnet_ok
+  - first:
+      43: 4300026
+    second: bonnet_dam
+  - first:
+      43: 4300028
+    second: door_lf_ok
+  - first:
+      43: 4300030
+    second: door_lf_da
+  - first:
+      43: 4300032
+    second: boot_ok
+  - first:
+      43: 4300034
+    second: plate_rear
+  - first:
+      43: 4300036
+    second: boot_dam
+  - first:
+      43: 4300038
+    second: front_bump
+  - first:
+      43: 4300040
+    second: front_bu01
+  - first:
+      43: 4300042
+    second: rear_bumpe
+  - first:
+      43: 4300044
+    second: rear_bum01
+  - first:
+      43: 4300046
+    second: windescree
+  - first:
+      43: 4300048
+    second: hub_lr
+  - first:
+      43: 4300050
+    second: hub_lf
+  - first:
+      43: 4300052
+    second: hub_rr
+  - first:
+      43: 4300054
+    second: wheel_rf
+  - first:
+      43: 4300056
+    second: hub_rf
+  - first:
+      43: 4300058
+    second: Collision
+  - first:
+      43: 4300060
+    second: Shadow
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 [spec]
+    second: {fileID: 2100000, guid: 576a4bfd9a8ea6f4cab6b77ba40e1272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 [spec]
+    second: {fileID: 2100000, guid: 360a2632cf208464cbe53475e109a369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2 [spec]
+    second: {fileID: 2100000, guid: 3541054b36c89f940b46a99c9d5f3a07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 [spec]
+    second: {fileID: 2100000, guid: 24a8be924417f5e4e8a58f90c3260c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 [spec]
+    second: {fileID: 2100000, guid: 55c241411be9d24479141ea0fd9be294, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6 [spec]
+    second: {fileID: 2100000, guid: 1fd9853fb50d8ae4e92b7baf5bb2d850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Material
+    second: {fileID: 2100000, guid: f1419998da801af47ac026b6130472a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ 66000000_
+    second: {fileID: 2100000, guid: 055105b2544bcef4aa7bb0b73362ed3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF131313_
+    second: {fileID: 2100000, guid: 46e6c0b66f2c96e41a2f2f19dd970b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF191919_
+    second: {fileID: 2100000, guid: 0bc55617f2b71fb4e96c3b0fd095da22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF1A1A1A
+    second: {fileID: 2100000, guid: a0daef39736a1d34cae5746705a20545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF1D1D1D_
+    second: {fileID: 2100000, guid: 2bd2a8737cee6cc45a1a89fed13430e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF333333_
+    second: {fileID: 2100000, guid: 040371244bc316a489c8c0df508a14fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF666666_
+    second: {fileID: 2100000, guid: 62c341aab1275d54393a8f17dcd9a596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF990000_
+    second: {fileID: 2100000, guid: bf4ae593189993b4fb3e103b52491a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FF999999_
+    second: {fileID: 2100000, guid: 6163f475a4a16a942ba421286e77c6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FFCCCCC01
+    second: {fileID: 2100000, guid: a9d5ea226dc0a954f910e4196200de2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FFCCCCCC
+    second: {fileID: 2100000, guid: ad072d0a7df857349af2c05105b66db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FFCCCCCC_
+    second: {fileID: 2100000, guid: b595783054e7f7348af7eced3ed38cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_ FFFFFFFF_
+    second: {fileID: 2100000, guid: dc58365298541bf438302b0bb85179e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: authors2 [spec]
+    second: {fileID: 2100000, guid: 6540adc28403b50469be2e25247bde3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carbontex [spec]
+    second: {fileID: 2100000, guid: 69636cbd9cdebca4ab12e9f1bdff3f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpback
+    second: {fileID: 2100000, guid: c7d7f2ccdb211744296734fb1b2e2f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet2 [spec]
+    second: {fileID: 2100000, guid: 8e805513051ef1d408078a3486e58cf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carplate
+    second: {fileID: 2100000, guid: d5b300f8c595aeb468666e4dd545a8e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chassistex [prim
+    second: {fileID: 2100000, guid: 65e5fb4fc463d594d83cc5b8bb1cc033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chassistex [spec
+    second: {fileID: 2100000, guid: 67bf4163f549ecc48a7e4be5ae192721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: disc01
+    second: {fileID: 2100000, guid: da9b1fa96c62d86408c5ce6bdcfd49e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: enine2 [spec]
+    second: {fileID: 2100000, guid: 51ae9d5a832c9f44489f756ad152adeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gld [spec]
+    second: {fileID: 2100000, guid: 43f49e5ed31924f4da35d46df92b7aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: intgauges2 [spec
+    second: {fileID: 2100000, guid: 7e7475b0756cdce4393373ea69d447c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights_lod0 [spe
+    second: {fileID: 2100000, guid: 30256a39912510f4aa54d90e9b3f57d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightsmw [spec]
+    second: {fileID: 2100000, guid: 4fbdd814fc4c08d41bdef443e74fc5ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: remap_gtr [prim,
+    second: {fileID: 2100000, guid: 9cb95bce949e9b1448798a735cdbca10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scratch
+    second: {fileID: 2100000, guid: 3a313b7b3350b014cb2f6f2421823841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: srteetingwheels2
+    second: {fileID: 2100000, guid: 5ddf96bedead45c459a7c54acfe4dfec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: support
+    second: {fileID: 2100000, guid: f060d0ef74b21ef4fa7cd3385d69b46b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire_side
+    second: {fileID: 2100000, guid: 73df54c55c2366d4b9dd8b6c2ffe4500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upgrade s2 [spec
+    second: {fileID: 2100000, guid: cf5dae7223077a9468eacf15c8a6539b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights 01
+    second: {fileID: 2100000, guid: b595783054e7f7348af7eced3ed38cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights 02
+    second: {fileID: 2100000, guid: b595783054e7f7348af7eced3ed38cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights 03
+    second: {fileID: 2100000, guid: b595783054e7f7348af7eced3ed38cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights 04
+    second: {fileID: 2100000, guid: b595783054e7f7348af7eced3ed38cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vehiclelights [s
+    second: {fileID: 2100000, guid: b595783054e7f7348af7eced3ed38cd9, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
