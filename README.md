@@ -1,4 +1,3 @@
-# Car-Showcase
 Simple HD environment for car rendering (HDRP)
 
 <h2> Path Tracing ON </h2>
